@@ -11,13 +11,13 @@
 
     echo "status JoNes..Edisi humman kebelet nikah";  
 
-    echo "laper...piye iki..?"; 
+    echo "piye iki..?"; 
 
 	echo "12312321312321";
 
 	echo "saipul hidayat The'gerr";
 	
 	echo "Abdurrahman";
-	
+
 	echo "NaufallutfiF";
 ?>
